@@ -1,0 +1,4 @@
+repository "Assignment14.2SCM@local"
+  path "/"
+    br "/main"
+    co "/main"
